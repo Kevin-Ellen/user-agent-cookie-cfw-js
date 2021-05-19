@@ -42,6 +42,7 @@ const endPoint = (request) => {
         font-size:0.8rem;
         table-layout: fixed;
         width: 100%;
+        max-width:1000px;
         word-break: break-all;
       }
       thead{
