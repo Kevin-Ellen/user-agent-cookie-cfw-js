@@ -22,4 +22,4 @@ I serve a page as if I were origin, with the HTTP request headers sent to me sho
 * Cloudflare Wrangler: https://github.com/cloudflare/wrangler
 
 ## Developed by
-Kevin Ellen, Director of Web Experience
+Kevin Ellen, Global Director of Web Experience

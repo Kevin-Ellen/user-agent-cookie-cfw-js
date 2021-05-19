@@ -51,7 +51,7 @@ const endPoint = (request) => {
         background:rgba(0,0,0,0.1);
       }
       th:nth-of-type(1){
-        min-width:125px;
+        width:150px;
       }
       tbody tr:hover td{
         background:rgba(0,0,0,0.15);
